@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madstroldborg
 - 👀 I have general interest in environmental risk assessment, modelling and uncertainty estimation. 
-- :nerd_face: I'm particularly interested in contaminant transport & fate in the environment and on assessing contaminant exposure and risks.  
-- 🌱 I’m currently learning about Bayesian Networks, R shiny and lots of other cool topics, including risk of antimicrobial resistance (!). 
+- :nerd_face: I'm particularly interested in contaminant transport & fate in the environment and the associated exposure and risks.  
+- 🌱 I’m currently learning about Bayesian Networks, R shiny and lots of other cool topics, including risk of AMR (!). 
 - 💞️ I’m looking to collaborate on anything that matches my interests :)
 - 📫 How to reach me: mads.troldborg@hutton.ac.uk
 
